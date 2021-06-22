@@ -1,0 +1,15 @@
+{
+    "ModTitle": "Create-Atronach",
+    "ModVersion": "0.81",
+    "ModAuthor": "DunnyOfPenwick",
+    "ContactInfo": "dfworkshop.net",
+    "DFUnity_Version": "0.11.4",
+    "ModDescription": "Adds a Create Atronach spell",
+    "GUID": "4a641448-8631-4dc0-a286-b9c704f78adc",
+    "Files": [
+        "Assets/Game/Mods/CreateAtronach/Scripts/CreateAtronach.cs",
+        "Assets/Game/Mods/CreateAtronach/Scripts/CreateAtronachMod.cs",
+        "Assets/Game/Mods/CreateAtronach/Scripts/SummoningEgg.cs",
+        "Assets/Game/Mods/CreateAtronach/Sound/WarpIn.ogg"
+    ]
+}
